@@ -1,6 +1,6 @@
 # 🚀 RikEcoCode Pro // Green Software Analytics
 
-An advanced, 100% pure client-tier performance utility engineered by **[RikMakersHub Pro](https://github.io)**. This node acts as an interactive static "emissions diagnostics checker" for low-power embedded systems, parsing messy or blocking firmware structures in real-time to track execution efficiency and minimize processing carbon footprints.
+An advanced, 100% pure client-tier performance utility engineered by Rik **[RikEcoCode-Pro](https://rikmakershub.github.io/RikEcoCode-Pro/)**. This node acts as an interactive static "emissions diagnostics checker" for low-power embedded systems, parsing messy or blocking firmware structures in real-time to track execution efficiency and minimize processing carbon footprints.
 
 ---
 
@@ -38,5 +38,5 @@ This tool functions as an active infrastructure node within the broader develope
 * 🛠️ View full hardware blueprints and wire routing traces on the live **[Hackster.io Developer Profile](https://www.hackster.io/RikMakersHub/projects)**.
 
 ***
-**COME CHECK IT OUT:** 
-**&copy; 2026 RikMakersHub Pro Architecture Systems. Distributed entirely under open-source MIT infrastructure rules.**
+**COME CHECK IT OUT:** **[RikEcoCode-Pro](https://rikmakershub.github.io/RikEcoCode-Pro/)**
+**&copy; 2026 RikMakersHub Architecture Systems. Distributed entirely under open-source MIT infrastructure rules.**

@@ -38,5 +38,5 @@ This tool functions as an active infrastructure node within the broader develope
 * 🛠️ View full hardware blueprints and wire routing traces on the live **[Hackster.io Developer Profile](https://www.hackster.io/RikMakersHub/projects)**.
 
 ***
-
+**COME CHECK IT OUT:** 
 **&copy; 2026 RikMakersHub Pro Architecture Systems. Distributed entirely under open-source MIT infrastructure rules.**
